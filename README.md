@@ -4,7 +4,7 @@ This project covers the solution for Project 3 of the Udacity Deep Reinforcement
 
 ## Project Details
 
-![Trained Agent](assets/multi_agent.gif)
+![Trained Agent](assets/Random.gif)
 
 This project required training two agents to keep a ball aloft in a ping pong environment. A reward of 0.1 is given to any agent that successfully hits the ball over the net and a reward of -0.01 is given to the agent that lets the ball hit the ground or hits it out of bounds.
 
